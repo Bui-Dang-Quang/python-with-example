@@ -1,0 +1,20 @@
+# Example":
+# import turtle
+# turtle.shape("turtle")
+# color = turtle.color("Red","yellow")
+# size = turtle.pensize(3)
+# pen = turtle.pendown()
+# # for i in range(0,10):
+# #     turtle.right(36)
+# for i in range(0,5):
+#         turtle.forward(100)
+#         turtle.right(72)
+
+# turtle.exitonclick()
+
+import turtle
+for i in range(0,4):
+    turtle.forward(100)
+    turtle.right(90)
+
+turtle.exitonclick()

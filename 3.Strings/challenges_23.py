@@ -1,0 +1,7 @@
+n = input("Enter a Nursery Rhymes: ")
+length = len(n)
+print("This phrases cotain",length, "letters")
+start = int(input("Enter Start: "))
+end = int(input("Enter End: "))
+string = (n[start:end])
+print("\nString: ", string)
